@@ -6,9 +6,7 @@ Personal portfolio
 ###### heading 6
 
 
-** BOLD **
-
-__BOLD++
+__BOLD__
 *Italics*
 > nesting
 >
