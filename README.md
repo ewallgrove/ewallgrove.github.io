@@ -1,7 +1,7 @@
 # ewallgrove.github.io
 Personal portfolio
 
-#Heading 1
+# Heading 1
 
 ###### heading 6
 
