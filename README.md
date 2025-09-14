@@ -18,5 +18,6 @@ __BOLD++
 Tables:
 
 | Option 1| Des|
+|---------|----|
 | w       |   a|
 | a       |   a|
