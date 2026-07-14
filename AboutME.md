@@ -8,12 +8,13 @@ My interests lie in interdisciplinary science, policy, and technology climate so
 2. This portfolio.
 3. Finding an exciting new role in the climate space. Let's talk if you have something to share!
 
-# [View my resume](./EileenWallgrove_Resume.pdf).
+# [View my resume](./documents/EileenWallgrove_Resume.pdf)
 
 # Portfolio and Projects
+
 ## Writing Samples
-Here are a few select writing samples.
-Automation in Chemistry (2022)
-Undergraduate thesis: Student Perceptions of Writing in Chemistry (2022)
+Here are a few select writing samples:
+- [Automation in Chemistry (2022)](./documents/AutomationInChemistry_WritingSample.pdf)
+- [Student Perceptions of Writing in Chemistry - Undergraduate Thesis (2022)](./documents/BScThesisReport.pdf)
+
 ## Coding projects
-## 
