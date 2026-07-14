@@ -18,3 +18,4 @@ Here are a few select writing samples:
 - [Student Perceptions of Writing in Chemistry - Undergraduate Thesis (2022)](./documents/BScThesisReport.pdf)
 
 ## Coding projects
+To be released.
