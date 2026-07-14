@@ -2,13 +2,11 @@
 Hello! I am Eileen Wallgrove! 
 My interests lie in interdisciplinary science, policy, and technology climate solutions!
 
-This website is currently a WIP as I teach myself how to build my own website!
+## What I am currently working on:
 
-## What I am currently working on!
-
-1. This website.
-2. Working my way through sustainability in business training.
-3. 
+1. Learning how to use AI for sustainable applications including self-hosting and better understanding virtual environments.
+2. This portfolio.
+3. Finding an exciting new role in the climate space. Let's talk if you have something to share!
 
 # CV
 (Link to CV).
