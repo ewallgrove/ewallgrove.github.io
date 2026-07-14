@@ -8,8 +8,7 @@ My interests lie in interdisciplinary science, policy, and technology climate so
 2. This portfolio.
 3. Finding an exciting new role in the climate space. Let's talk if you have something to share!
 
-# CV
-(Link to CV).
+# [View my resume](./"Wallgrove, Eileen Resume".pdf).
 
 # Portfolio and Projects
 ## Writing Samples
