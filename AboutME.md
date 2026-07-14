@@ -1,6 +1,6 @@
 # About ME
 Hello! I am Eileen Wallgrove! 
-My interests lie in interdisciplinary science, policy, and technology climate solutions!
+My interests lie in interdisciplinary science, policy, and tech climate solutions!
 
 ## What I am currently working on:
 
