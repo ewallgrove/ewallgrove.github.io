@@ -14,7 +14,7 @@ My interests lie in interdisciplinary science, policy, and tech climate solution
 
 ## Writing Samples
 Here are a few select writing samples:
-- [Automation in Chemistry (2022)](./documents/AutomationInChemistry_WritingSample.pdf)
+- [Automation in Chemistry (2022)](./documents/AutomationInChemisty_WritingSample.pdf)
 - [Student Perceptions of Writing in Chemistry - Undergraduate Thesis (2022)](./documents/BScThesisReport.pdf)
 
 ## Coding projects
